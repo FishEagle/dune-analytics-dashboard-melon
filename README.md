@@ -8,6 +8,10 @@ The repo [here](https://github.com/FishEagle/duneanalytics-abstractions-melon) c
 
 ## The Dashboard
 
-![WIP](Query%20Funds%20WIP.png)
+(work in progress)
+
+![test](Query%20Funds%20WIP.png)
+
+![test2](https://duneanalytics.com/embeds/12225/24505/oicgfRObWA8Y3H5iwOYeBlHrOjaV0ddhFVJdT9uX)
 
 🍉
