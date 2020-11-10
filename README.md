@@ -12,6 +12,6 @@ The repo [here](https://github.com/FishEagle/duneanalytics-abstractions-melon) c
 
 ![test](Query%20Funds%20WIP.png)
 
-[View on Dune Analytics](https://duneanalytics.com/embeds/12225/24505/oicgfRObWA8Y3H5iwOYeBlHrOjaV0ddhFVJdT9uX)
+[View on Dune Analytics](https://duneanalytics.com/embeds/12226/26188/xlutYioRjRHzXJb6taJLBDExn4M8enzWelMmnS5G)
 
 🍉
