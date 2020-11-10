@@ -10,6 +10,7 @@ The repo [here](https://github.com/FishEagle/duneanalytics-abstractions-melon) c
 
 (work in progress)
 
+### Active Funds
 ![test](Query%20Funds%20WIP2.png)
 
 [View on Dune Analytics](https://duneanalytics.com/embeds/12226/26188/xlutYioRjRHzXJb6taJLBDExn4M8enzWelMmnS5G)
